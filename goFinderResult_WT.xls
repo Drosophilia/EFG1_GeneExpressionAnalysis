@@ -1,0 +1,7 @@
+GOID	GO_term	Cluster frequency	Background frequency	Corrected P-value	False discovery rate	Gene(s) annotated to the term	Directly Annotated GOID List
+1900241	positive regulation of phenotypic switching	4 out of 73 genes, 5.5%	11 out of 6473 background genes, 0.2%	0.00168	0.00%	WOR1:OFI1:WOR3:EFG1	1900430:44406:1900239:1410:30448:36178:44182:1900439:36180:1900445:7155:20012:45944:70887:44114:44409:1900461:97316:2000220:30447:2000222:31589:10811:6355:43689:1900231:71852:1990277:7124:9267:71216:16477:1900241:902:44011:44663:122:48869:1900442:36187:45595:1900436:36171:36170:6357:9405:35690:36244:36166
+1990961	xenobiotic detoxification by transmembrane export across the plasma membrane	5 out of 73 genes, 6.8%	40 out of 6473 background genes, 0.6%	0.02790	1.00%	CDR4:TPO3:C1_10200C_A:C6_01400W_A:TPO4	6812:15848:6810:15850:1990961:296:35690
+42908	xenobiotic transport	5 out of 73 genes, 6.8%	41 out of 6473 background genes, 0.6%	0.03150	0.67%	CDR4:TPO3:C1_10200C_A:C6_01400W_A:TPO4	6812:15848:6810:15850:1990961:296:35690
+140115	export across plasma membrane	5 out of 73 genes, 6.8%	45 out of 6473 background genes, 0.7%	0.04959	2.50%	CDR4:TPO3:C1_10200C_A:C6_01400W_A:TPO4	6812:15848:6810:15850:1990961:296:35690
+44036	cell wall macromolecule metabolic process	5 out of 73 genes, 6.8%	48 out of 6473 background genes, 0.7%	0.06770	2.80%	RHD1:MNN42:MNN22:MNN4:BMT3	32:35269:70135:35268:70136:6688:51278:46354
+10412	mannan metabolic process	3 out of 73 genes, 4.1%	11 out of 6473 background genes, 0.2%	0.07725	3.00%	RHD1:MNN22:BMT3	35269:70135:35268:70136:6688:46354

@@ -1,0 +1,4 @@
+GOID	GO_term	Cluster frequency	Background frequency	Corrected P-value	False discovery rate	Gene(s) annotated to the term	Directly Annotated GOID List
+1900241	positive regulation of phenotypic switching	2 out of 11 genes, 18.2%	11 out of 6473 background genes, 0.2%	0.00529	12.00%	CZF1:WOR3	71216:9267:1900239:1900241:44663:44011:36180:1900443:9372:30447:10811:6355:36170:6357:1900189:36166:1900231
+1900239	regulation of phenotypic switching	2 out of 11 genes, 18.2%	29 out of 6473 background genes, 0.4%	0.03846	44.00%	CZF1:WOR3	71216:9267:1900239:1900241:44663:44011:36180:1900443:9372:30447:10811:6355:36170:6357:1900189:36166:1900231
+36166	phenotypic switching	2 out of 11 genes, 18.2%	33 out of 6473 background genes, 0.5%	0.04984	30.67%	CZF1:WOR3	71216:9267:1900239:1900241:44663:44011:36180:1900443:9372:30447:10811:6355:36170:6357:1900189:36166:1900231
